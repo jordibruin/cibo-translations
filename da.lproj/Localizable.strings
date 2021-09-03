@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  Cibo
+
+  Created by Jordi Bruin on 03/09/2021.
+  
+*/
+
+// Camera
+"Searching" = "Søger";
+"Show found words" = "Vis fundne ord";
+"%@ words found" = "%@ ord fundet";
+"Point at a menu and select a dish" = "Kig på en menu og tryk på en ret";
+
+// Settings
+"Settings" = "Indstillinger";
+"Highlight Color" = "Fremhævningsfarve";
+"Accurate Scan" = "Præcis tekstgenkendelse";
+"Search Engine" = "Søgemaskine";
+"Slower but much more accurate text recognition results" = "Langsommere men mere præcise tekstgenkendelsesresultater";
+"Choose which search engine to use for the image search" = "Vælg hvilken søgemaskine til billedsøgning";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "Swipe til højre og venstre for hurtigt at skifte mellem ord";
+
+"Found Words" = "Fundne ord";
+"Search term" = "Søgning";
+
+
+// IAP
+"Unlock Unlimited Scans" = "Lås op for ubegrænsede scanninger";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo er lavet af Jordi 🙋🏻‍♂️ fra Good Snooze 👍😴 Lås op for ubegrænsede scanninger og støt videreudvikling af appen ved en enkelt betaling! Hvis du har forslag til hvordan jeg kan forbedre appen, så send mig venligst en mail til jordi@goodsnooze.com.";
+
+"🔎 Unlimited Scanning" = "🔎 Ubegrænset scanning";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Støt udvikling";
+
+"Restore Purchases" = "Gendan køb";
+"No purchases could be found for your Apple ID." = "Der blev ikke fundet nogen køb for dit Apple ID.";
+"😍 Thanks for supporting Cibo" = "😍 Tak for at støtte Cibo";
+
+// Errors
+"Text Recognition Failed" = "Tekstgenkendelse fejlede";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Dette skulle ikke ske. Giv mig venligst besked hvis det sker for dig på en email til jordi@goodsnooze.com";
+"Ok" = "Ok";
+
+// App Store
+
+"title" = "Cibo - Visuel menuoversætter";
+"subtitle" = "Se billeder af madretter";
+"description" = "Søg hurtigt efter billeder af madretter ved at vælge dem med dit kamera. Når du er i udlandet og spise ved en restuarant, kan det være besværligt at søge efter madretter, for at finde billeder og se hvordan de ser ud. Cibo gør det nemt for dig. Bare kig på menuen med dit kamera og vælg en ret. Den vil vise dig en liste af billeder, så du bedre kan få en idé om hvad at forvente.";
+"keywords" = "oversætte,oversættelse,aftensmad,restaurant,billede,søg,shibo,ciboo,chibo,billeder";
+
+"screenshot1" = "Find billeder af madretter";
+"screenshot2" = "Kig på menuen gennem dit kamera";
+"screenshot3" = "Vælg den ret du vil se";
+"screenshot4" = "Se billeder af retten";
+"screenshot5" = "Se alle fundne ord";
+"screenshot6" = "Swipe mellem ord";
+"screenshot7" = "Ser fantastisk ud i mørke";
