@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Cibo
+
+  Created by Jordi Bruin on 03/09/2021.
+  
+*/
+
+// Camera
+"Searching" = "Zoeken";
+"Show found words" = "Toon gevonden woorden";
+"%@ words found" = "%@ woorden gevonden";
+"Point at a menu and select a dish" = "Richt op een menu en selecteer een gerecht";
+
+// Settings
+"Settings" = "Instellingen";
+"Highlight Color" = "Markeer kleur";
+"Accurate Scan" = "Nauwkeurige Tekstherkenning";
+"Search Engine" = "Zoekmachine";
+"Slower but much more accurate text recognition results" = "Langzamer maar betere tekstherkenning resultaten";
+"Choose which search engine to use for the image search" = "Kies de zoekmachine die je wilt gebruiken voor de foto zoekopdracht";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "Swipe links en rechts om tussen gevonden woorden te wisselen";
+
+"Found Words" = "Gevonden woorden";
+"Search term" = "Zoekterm";
+
+
+// IAP
+"Unlock Unlimited Scans" = "Onbeperkt Scannen";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo is gemaakt door Jordi 🙋🏻‍♂️ van Good Snooze 👍😴 Als je onbeperkt wilt scannen en de ontwikkeling van de app wilt steunen kan je een eenmalige aankoop doen! Als je suggesties hebt over hoe ik de app kan verbeteren hoor ik het graag via jordi@goodsnooze.com.";
+
+"🔎 Unlimited Scanning" = "🔎 Onbeperkt Scannen";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Steun App Ontwikkeling";
+
+"Restore Purchases" = "Aankopen Herstellen";
+"No purchases could be found for your Apple ID." = "Cibo kon geen eerdere aankopen vinden voor die Apple ID.";
+"😍 Thanks for supporting Cibo" = "😍 Bedankt voor je aankoop";
+
+// Errors
+"Text Recognition Failed" = "Tekst Herkenning Mislukt Text";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Dit zou nooit moeten gebeuren, stuur me even een mailtje op jordi@goodsnooze.com als het vaker gebeurd!";
+"Ok" = "Ok";
+
+// Screenshots
+"screenshot1" = "Vind Snel foto's van recepten";
+"screenshot2" = "Richt je camera op een menu";
+"screenshot3" = "Selecteer het gerecht die je wilt zien";
+"screenshot4" = "Zie foto's van het gerecht";
+"screenshot5" = "Bekijk alle gevonden woorden";
+"screenshot6" = "Swipe tussen woorden";
+"screenshot7" = "Ziet er fantastisch uit in het donker";
