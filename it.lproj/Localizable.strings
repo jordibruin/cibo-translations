@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Cibo
+
+  Created by Jordi Bruin on 03/09/2021.
+  
+*/
+
+// Camera
+"Searching" = "Cercando";
+"Show found words" = "Mostra parole trovate";
+"%@ words found" = "%@ parole trovate";
+"Point at a menu and select a dish" = "Punta ad un menù e seleziona un piatto";
+
+// Settings
+"Settings" = "Impostazioni";
+"Highlight Color" = "Colore di evidenziazione";
+"Accurate Scan" = "Riconoscimento accurato del testo";
+"Search Engine" = "Motore di ricerca";
+"Slower but much more accurate text recognition results" = "Più lento, ma riconoscimento del testo molto più accurato";
+"Choose which search engine to use for the image search" = "Seleziona il motore di ricerca da utilizzare per la ricerca delle immagini";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "Scorri a destra e sinistra per navigare rapidamente tra le parole";
+
+"Found Words" = "Parole trovate";
+"Search term" = "Termine di ricerca";
+
+
+// IAP
+"Unlock Unlimited Scans" = "Sblocca scansioni illimitate";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo è stata creata da Jordi 🙋🏻‍♂️ a Good Snooze 👍😴 Sblocca scansioni illimitate e supporta il futuro sviluppo con un unico acquisto! Se hai qualche suggerimento su come migliorare l’applicazione, fammelo sapere su jordi@goodsnooze.com.";
+
+"🔎 Unlimited Scanning" = "🔎 Scansioni illimitate";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Supporta lo sviluppo";
+
+"Restore Purchases" = "Ripristina acquisti";
+"No purchases could be found for your Apple ID." = "Non sono stati trovati acquisti sul tuo ID Apple.";
+"😍 Thanks for supporting Cibo" = "😍 Grazie per il supporto";
+
+// Errors
+"Text Recognition Failed" = "Riconoscimento del testo fallito";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Questo non dovrebbe accadere, per cortesia fammi sapere se capita mandando una mail a jordi@goodsnooze.com";
+"Ok" = "Ok";
+
+// Screenshots
+"screenshot1" = "Cerca foto dei piatti del menù";
+"screenshot2" = "Punta la fotocamera verso il menù";
+"screenshot3" = "Seleziona il piatto che vuoi vedere";
+"screenshot4" = "Vedi le foto del piatto";
+"screenshot5" = "Vedi tutte le parole trovate";
+"screenshot6" = "Scorri tra le parole";
+"screenshot7" = "Bellissima anche al buio";
