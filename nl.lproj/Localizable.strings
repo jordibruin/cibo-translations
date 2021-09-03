@@ -43,8 +43,15 @@
 "This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Dit zou nooit moeten gebeuren, stuur me even een mailtje op jordi@goodsnooze.com als het vaker gebeurd!";
 "Ok" = "Ok";
 
-// Screenshots
-"screenshot1" = "Vind Snel foto's van recepten";
+// App Store
+
+
+"title" = "Cibo - Visuele Menu Vertaler";
+"subtitle" = "Bekijk Foto's van gerechten";
+"description" = "Zoek razendsnel foto's op van gerechten in restaurants door ze te selecteren met je camera. Als je uit eten gaat in het buitenland is het vaak erg onhandig om de verschillende gerechten op te zoeken om te zien hoe het er uit ziet. Cibo maakt dit gemakkelijker voor je. Richt je camer aop het menu and selecteer een gerecht. De app toont je een overzicht met foto's zodat je weet hoe het gerecht er uit ziet.";
+"keywords" = "vertaal,vertalen,vertaling,dinner,uiteten,eten,afbeelding,zoeken,shibo,ciboo,chibo,plaatjes,foto";
+
+"screenshot1" = "Vind Snel foto's van gerechten";
 "screenshot2" = "Richt je camera op een menu";
 "screenshot3" = "Selecteer het gerecht die je wilt zien";
 "screenshot4" = "Zie foto's van het gerecht";
