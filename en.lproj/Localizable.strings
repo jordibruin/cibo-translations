@@ -43,7 +43,13 @@
 "This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com";
 "Ok" = "Ok";
 
-// Screenshots
+// App Store
+
+"title" = "Cibo - Visual Menu Translator";
+"subtitle" = "View Photos of food dishes";
+"description" = "Quickly search for photos of food menu items by selecting them with your camera. When you're eating at a restaurant abroad it can be tedious to constantly have to search for the menu items to find pictures of what they look like. Cibo makes it easy for you. Just point your camera and select any of the dishes. It will show you a list of photos to give you a better idea of what to expect.";
+"keywords" = "translate,translation,dinner,restaurant,image,search,shibo,ciboo,chibo,images";
+
 "screenshot1" = "Find photos of menu dishes";
 "screenshot2" = "Point your camera at the menu";
 "screenshot3" = "Select the dish you want to see";
