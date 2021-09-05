@@ -9,7 +9,7 @@
 // Camera
 "Searching" = "Ищу";
 "Show found words" = "Показать найденные слова";
-"%@ words found" = "Слов найдено: %@";
+"%lld words found" = "Слов найдено: %lld";
 "Point at a menu and select a dish" = "Наведите на меню и выберете блюдо";
 
 // Settings
