@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  Cibo
+
+  Created by Jordi Bruin on 03/09/2021.
+  
+*/
+
+// Camera
+"Searching" = "Recherche";
+"Show found words" = "Afficher les mots trouvés";
+"%@ words found" = "%@ mots trouvés";
+"Point at a menu and select a dish" = "Pointez un menu et choisissez un plat";
+
+// Settings
+"Settings" = "Réglages";
+"Highlight Color" = "Couleur de surbrillance";
+"Accurate Scan" = "Reconnaissance précise de texte";
+"Search Engine" = "Moteur de recherche";
+"Slower but much more accurate text recognition results" = "Un chouia plus long, mais résultats beaucoup plus précis";
+"Choose which search engine to use for the image search" = "Choisissez le moteur de recherche à utiliser pour retrouver les images";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "Balayez vers la gauche et la droite pour basculer rapidement entre les mots";
+
+"Found Words" = "Mots trouvés";
+"Search term" = "Terme recherché";
+
+
+// IAP
+"Unlock Unlimited Scans" = "Débloquer les scans illimitées";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo est développé par Jordi 🙋🏻‍♂️ chez Good Snooze 👍😴 Débloquez des scans illimités et soutenez le développement de l'application en effectuant un paiement unique ! Si vous avez des suggestions sur la façon dont je peux améliorer l'application, merci de me le faire savoir en écrivant à jordi@goodsnooze.com.";
+
+"🔎 Unlimited Scanning" = "🔎 Scans illimités";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Soutenir les développements";
+
+"Restore Purchases" = "Restaurer les achats";
+"No purchases could be found for your Apple ID." = "Aucun achat n'a pu être trouvé pour votre identifiant Apple.";
+"😍 Thanks for supporting Cibo" = "😍 Merci de soutenir Cibo";
+
+// Errors
+"Text Recognition Failed" = "Échec de la reconnaissance de texte";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Ceci ne devrait pas arriver, si ça se reproduit merci de me le faire savoir en adressant un email à jordi@goodsnooze.com";
+"Ok" = "Ok";
+
+// App Store
+
+"title" = "Cibo - Traducteur de menus visuels";
+"subtitle" = "Regarder des photos de plats";
+"description" = "Recherchez rapidement des photos d'éléments d'un menu en les sélectionnant avec votre caméra. Lorsque vous mangez dans un restaurant à l'étranger, il peut être fastidieux de devoir constamment rechercher les éléments d'un menu et de se faire une idée de ce à quoi ils ressemblent. Cibo vous facilite la tâche. Dirigez simplement votre caméra vers le menu et sélectionnez l'un des plats. Il vous montrera une liste de photos et vous aurez une meilleure idée de ce à quoi vous attendre.";
+"keywords" = "traduire,traduction,dîner,restaurant,image,recherche,shibo,ciboo,chibo,images";
+
+"screenshot1" = "Trouver des photos des plats";
+"screenshot2" = "Dirigez votre camera vers un menu";
+"screenshot3" = "Sélectionnez le plat que vous voulez découvrir";
+"screenshot4" = "Afficher les photos du plat";
+"screenshot5" = "Consulter tous les mots trouvés";
+"screenshot6" = "Glisser entre les mots";
+"screenshot7" = "A fière allure dans le noir";
