@@ -1,16 +1,16 @@
-/* 
+/*
   Localizable.strings
   Cibo
 
   Created by Jordi Bruin on 03/09/2021.
-  
+
 */
 
 // Camera
 "Searching" = "Searching";
 "Show found words" = "Show found words";
-"%@ words found" = "%@ words found";
-"Point at a menu and select a dish" = "Point at a menu and select a dish";
+"%lld words found" = "%lld words found";
+"Point at a menu and select a dish" = "Point at a menu and tap on a dish";
 
 // Settings
 "Settings" = "Settings";
@@ -19,6 +19,12 @@
 "Search Engine" = "Search Engine";
 "Slower but much more accurate text recognition results" = "Slower but much more accurate text recognition results";
 "Choose which search engine to use for the image search" = "Choose which search engine to use for the image search";
+
+"Translators" = "Translators";
+"Developer" = "Developer";
+"Help Translate" = "Help Translate";
+
+"⭐️ Review on the App Store" = "⭐️ Review on the App Store";
 
 // Image Search
 "Swipe left and right to quickly switch between words" = "Swipe left and right to quickly switch between words";
