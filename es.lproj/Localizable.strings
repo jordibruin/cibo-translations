@@ -9,7 +9,7 @@
 // Camera
 "Searching" = "Buscando";
 "Show found words" = "Mostrar palabras encontradas";
-"%@ words found" = "%@ palabras encontradas";
+"%lld words found" = "%lld palabras encontradas";
 "Point at a menu and select a dish" = "Apunta la cámara al menú y selecciona un plato";
 
 // Settings
