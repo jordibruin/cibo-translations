@@ -9,7 +9,7 @@
 // Camera
 "Searching" = "Zoeken";
 "Show found words" = "Toon gevonden woorden";
-"%@ words found" = "%@ woorden gevonden";
+"%lld words found" = "%lld woorden gevonden";
 "Point at a menu and select a dish" = "Richt op een menu en selecteer een gerecht";
 
 // Settings
