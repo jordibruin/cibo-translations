@@ -7,8 +7,8 @@
 */
 
 // Camera
-"Searching" = "Sucht";
-"Show found words" = "Gefundene Worte anzeigen";
+"Searching" = "Suchen";
+"Show found words" = "Gefundene Wörter anzeigen";
 "%@ words found" = "%@ Wörter gefunden";
 "Point at a menu and select a dish" = "Auf eine Speisekarte zeigen und ein Gericht auswählen";
 
@@ -21,7 +21,7 @@
 "Choose which search engine to use for the image search" = "Wähle eine Suchmaschine für die Bildersuche";
 
 // Image Search
-"Swipe left and right to quickly switch between words" = "Wische links und rechts um schnell zwischen verschiedenen Wörtern zu wechseln";
+"Swipe left and right to quickly switch between words" = "Wische nach links und rechts, um schnell zwischen verschiedenen Wörtern zu wechseln";
 
 "Found Words" = "Gefundene Wörter";
 "Search term" = "Suchbegriff";
@@ -29,7 +29,7 @@
 
 // IAP
 "Unlock Unlimited Scans" = "Unbegrenzte Scans freischalten";
-"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo wird von Jordi 🙋🏻‍♂️ bei Good Snooze entwickelt 👍😴 Schalte unbegrenzte Scans frei und unterstütze die Weiterentwicklung der App, durch einen einmaligen Kauf! Wenn du irgendwelche Verbesserungsvorschläge hast, sag gerne unter jordi@goodsnooze.com bescheid.";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo wird von Jordi 🙋🏻‍♂️ bei Good Snooze entwickelt 👍😴 Schalte unbegrenzte Scans frei und unterstütze die Weiterentwicklung der App durch einen einmaligen Kauf! Wenn du irgendwelche Verbesserungsvorschläge hast, gib mir gerne unter jordi@goodsnooze.com bescheid.";
 
 "🔎 Unlimited Scanning" = "🔎 Unbegrenztes Scannen";
 "👨🏻‍💻 Support Development" = "👨🏻‍💻 Weiterentwicklung unterstützen";
@@ -39,21 +39,21 @@
 "😍 Thanks for supporting Cibo" = "😍 Danke, dass du Cibo unterstützt";
 
 // Errors
-"Text Recognition Failed" = "Texterkennung ist fehlgeschlagen";
-"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Das sollte nicht passieren, sag mir bitte bescheid unter jordi@goodsnooze.com";
+"Text Recognition Failed" = "Texterkennung fehlgeschlagen";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Das sollte nicht passieren, gib mir bitte Bescheid unter jordi@goodsnooze.com";
 "Ok" = "Ok";
 
 // App Store
 
-"title" = "Cibo - Visueller Speisekarten-Übersetzer"; // prob. to long. You can also drop the "Visueller""
-"subtitle" = "Automatische Bilder von Gerichten"; // if to long, you can drop the "Automatische"
-"description" = "Suche schnell nach Fotos von Gerichten auf Speisekarten, indem du sie mit deiner Kamera auswählst. Wenn du in einem Restaurant im Ausland isst, kann es mühsam sein, ständig nach Gerichten zu suchen, um Bilder davon zu finden, wie sie aussehen. Cibo macht es einfacher. Zeige einfach mit deiner Kamera auf die Speisekarte und wähle eines der Gerichte aus. Es wird dir eine Liste mit Fotos angezeigt, damit du eine bessere Vorstellung davon bekommen, was du erwarten kannst.";
+"title" = "Cibo - Visueller Speisekarten-Übersetzer"; // prob. too long. You can also drop the "Visueller"
+"subtitle" = "Automatische Bilder von Gerichten"; // if too long, you can drop the "Automatische"
+"description" = "Suche schnell nach Fotos von Gerichten auf Speisekarten, indem du sie mit deiner Kamera auswählst. Wenn du in einem Restaurant im Ausland isst, kann es mühsam sein, ständig nach Gerichten zu suchen, um Bilder davon zu finden, wie sie aussehen. Cibo macht es einfach. Zeige einfach mit deiner Kamera auf die Speisekarte und wähle eines der Gerichte aus. Es wird dir eine Liste mit Fotos angezeigt, damit du eine bessere Vorstellung davon bekommst, was du erwarten kannst.";
 "keywords" = "übersetzen,essen,Gericht,Speisekarte,restaurant,bild,Übersetzung,suche,shibo,ciboo,chibo,images";
 
 "screenshot1" = "Finde Bilder von Gerichten";
 "screenshot2" = "Zeige deine Kamera auf eine Speisekarte";
 "screenshot3" = "Wähle das Gericht aus, dass du sehen willst";
 "screenshot4" = "Sehe Bilder der Gerichte";
-"screenshot5" = "Sehen alle gefundenen Wörter";
+"screenshot5" = "Zeige alle gefundenen Wörter an";
 "screenshot6" = "Wische zwischen Wörtern";
-"screenshot7" = "Sicht super im Dunklen aus";
+"screenshot7" = "Sieht super im Dunklen aus";
