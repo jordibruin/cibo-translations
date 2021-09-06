@@ -9,7 +9,7 @@
 // Camera
 "Searching" = "În căutare";
 "Show found words" = "Arată cuvintele găsite";
-"%@ words found" = "%@ cuvinte găsite";
+"%lld words found" = "%lld cuvinte găsite";
 "Point at a menu and select a dish" = "Îndreptați spre meniu și selectați un fel de mâncare ";
 
 // Settings
