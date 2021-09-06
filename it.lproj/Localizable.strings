@@ -11,6 +11,7 @@
 "Show found words" = "Mostra parole trovate";
 "%lld words found" = "%lld parole trovate";
 "Point at a menu and select a dish" = "Punta ad un menù e seleziona un piatto";
+"Free Scans remaining:" = "Scansioni gratuite rimanenti:";
 
 // Settings
 "Settings" = "Impostazioni";
