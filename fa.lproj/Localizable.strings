@@ -11,6 +11,7 @@
 "Show found words" = "نمایش کلمات پیدا شده";
 "%lld words found" = "%lld کلمات پیدا شد";
 "Point at a menu and select a dish" = "دوربین را به سمت منو بگیرید و یک غذا را انتخاب کنید.";
+"Free Scans remaining:" = "اسکن رایگان باقی‌مانده:";
 
 // Settings
 "Settings" = "تنظیمات";
@@ -19,6 +20,12 @@
 "Search Engine" = "موتور جستجو";
 "Slower but much more accurate text recognition results" = "با فعال کردن این گزینه، نتایج تشخیص نام غذاها دیرتر نمایش داده می‌شوند اما بسیار دقیق‌تر است.";
 "Choose which search engine to use for the image search" = "انتخاب کنید از کدام موتور جستجو جهت نمایش عکس‌ غذاها استفاده شود.";
+
+"Translators" = "مترجمان";
+"Developer" = "توسعه‌دهنده";
+"Help Translate" = "کمک برای ترجمه";
+
+"⭐️ Review on the App Store" = "⭐️ نوشتن نظر در اپ‌استور";
 
 // Image Search
 "Swipe left and right to quickly switch between words" = "جهت جابه‌جایی بین کلمات، انگشت خود را به سمت چپ یا راست بکشید.";
