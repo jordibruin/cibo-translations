@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  Cibo
+
+  Created by Sina Rabiei on 07/09/2021.
+  
+*/
+
+// Camera
+"Searching" = "در حال جستجو";
+"Show found words" = "نمایش کلمات پیدا شده";
+"%lld words found" = "%lld کلمات پیدا شد";
+"Point at a menu and select a dish" = "دوربین را به سمت منو بگیرید و یک غذا را انتخاب کنید.";
+
+// Settings
+"Settings" = "تنظیمات";
+"Highlight Color" = "رنگ برگزیده";
+"Accurate Scan" = "اسکن دقیق";
+"Search Engine" = "موتور جستجو";
+"Slower but much more accurate text recognition results" = "با فعال کردن این گزینه، نتایج تشخیص نام غذاها دیرتر نمایش داده می‌شوند اما بسیار دقیق‌تر است.";
+"Choose which search engine to use for the image search" = "انتخاب کنید از کدام موتور جستجو جهت نمایش عکس‌ غذاها استفاده شود.";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "جهت جابه‌جایی بین کلمات، انگشت خود را به سمت چپ یا راست بکشید.";
+
+"Found Words" = "کلمات پیدا شده";
+"Search term" = "عبارت جستجو";
+
+
+// IAP
+"Unlock Unlimited Scans" = "باز کردن اسکن نامحدود";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "اپلیکیشن Cibo توسط Jordi 🙋🏻‍♂️ در Good Snooze 👍😴 ساخته شده است. با یک بار خرید اپلیکیشن می‌توانید به صورت نامحدود اسکن کنید و از توسعه اپلیکیشن نیز حمایت کنید. اگر پیشنهادی جهت بهبود اپلیکیشن دارید می‌توانید از طریق jordi@goodsnooze.com با من در ارتباط باشید.";
+
+"🔎 Unlimited Scanning" = "🔎 اسکن بدون محدودیت";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 حمایت از توسعه اپلیکیشن";
+
+"Restore Purchases" = "بازگرداندن خرید";
+"No purchases could be found for your Apple ID." = "برای اپل آيدی شما خریدی پیدا نشد.";
+"😍 Thanks for supporting Cibo" = "😍 ممنون بابت حمایت از Cibo";
+
+// Errors
+"Text Recognition Failed" = "شناسایی متن ناموفق بود";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "این اتفاق نباید رخ دهد. اگر این مورد برای شما رخ داده است لطفا از طریق ایمیل jordi@goodsnooze.com به من اطلاع دهید.";
+"Ok" = "باشه";
+
+// App Store
+
+// NOTE: We don't have a local App Store for Iran and Persian. So it's better to keep using the english metadata.
+
+"title" = "";
+"subtitle" = "";
+"description" = "";
+"keywords" = "";
+
+"screenshot1" = "";
+"screenshot2" = "";
+"screenshot3" = "";
+"screenshot4" = "";
+"screenshot5" = "";
+"screenshot6" = "";
+"screenshot7" = "";
