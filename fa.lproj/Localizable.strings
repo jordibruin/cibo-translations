@@ -47,15 +47,15 @@
 
 // NOTE: We don't have a local App Store for Iran and Persian. So it's better to keep using the english metadata.
 
-"title" = "";
-"subtitle" = "";
-"description" = "";
-"keywords" = "";
+"title" = "Cibo - Visual Menu Translator";
+"subtitle" = "View Photos of food dishes";
+"description" = "Quickly search for photos of food menu items by selecting them with your camera. When you're eating at a restaurant abroad it can be tedious to constantly have to search for the menu items to find pictures of what they look like. Cibo makes it easy for you. Just point your camera at the menu and select any of the dishes. It will show you a list of photos to give you a better idea of what to expect.";
+"keywords" = "translate,translation,dinner,restaurant,image,search,shibo,ciboo,chibo,images";
 
-"screenshot1" = "";
-"screenshot2" = "";
-"screenshot3" = "";
-"screenshot4" = "";
-"screenshot5" = "";
-"screenshot6" = "";
-"screenshot7" = "";
+"screenshot1" = "Find photos of menu dishes";
+"screenshot2" = "Point your camera at the menu";
+"screenshot3" = "Select the dish you want to see";
+"screenshot4" = "See photos of the dish";
+"screenshot5" = "View all found words";
+"screenshot6" = "Swipe between words";
+"screenshot7" = "Looks great in the dark";
