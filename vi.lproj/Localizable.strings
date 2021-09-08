@@ -1,0 +1,66 @@
+/*
+  Localizable.strings
+  Cibo
+
+  Translated by Joe Pham on 08/09/2021.
+
+*/
+
+// Camera
+"Searching" = "Đang tìm";
+"Show found words" = "Hiển thị từ đã tìm";
+"%lld words found" = "Tìm được %lld từ";
+"Point at a menu and select a dish" = "Hướng vào menu và chạm tên món";
+"Free Scans remaining:" = "Số lần quét miễn phí còn lại:";
+
+// Settings
+"Settings" = "Cài đặt";
+"Highlight Color" = "Màu Highlight";
+"Accurate Scan" = "Nhận diện Chính xác Văn bản";
+"Search Engine" = "Bộ máy Tìm kiếm";
+"Slower but much more accurate text recognition results" = "Chậm nhưng cho ra kết quả tìm kiếm chính xác hơn";
+"Choose which search engine to use for the image search" = "Chọn bộ máy tìm kiếm để nhận diện hình ảnh";
+
+"Translators" = "Nhà dịch thuật";
+"Developer" = "Nhà phát triển";
+"Help Translate" = "Giúp Dịch thuật";
+
+"⭐️ Review on the App Store" = "⭐️ Đánh giá trên App Store";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "Lướt trái phải để chuyển sang các từ khác";
+
+"Found Words" = "Từ đã tìm thấy";
+"Search term" = "Search term";
+
+
+// IAP
+"Unlock Unlimited Scans" = "Mở khóa Quét Không giới hạn";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo được viết bởi Jordi 🙋🏻‍♂️ tại Good Snooze 👍😴 Hãy mở khóa tính năng quét không giới hạn và hỗ trợ thêm cho việc phát triển ứng dụng này bằng cách chi trả chỉ 1 lần duy nhất! Nếu bạn có đề xuất để cải thiện app xin vui lòng liên hệ jordi@goodsnooze.com.";
+
+"🔎 Unlimited Scanning" = "🔎 Quét Không giới hạn";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Hỗ trợ việc Phát triển";
+
+"Restore Purchases" = "Khôi phục Giao dịch";
+"No purchases could be found for your Apple ID." = "Không tìm thấy giao dịch liên quan trong tài khoản Apple ID của bạn.";
+"😍 Thanks for supporting Cibo" = "😍 Cảm ơn bạn đã hỗ trợ Cibo";
+
+// Errors
+"Text Recognition Failed" = "Nhận diện Văn bản Thất bại";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Vấn đề này có lẽ không nên xảy ra, xin vui lòng báo tôi biết tại địa chỉ jordi@goodsnooze.com";
+"Ok" = "Ok";
+
+// App Store
+
+"title" = "Cibo - Dịch Menu thành Hình ảnh";
+"subtitle" = "Tìm hình ảnh cho Món ăn";
+"description" = "Nhanh chóng tra hình ảnh của các món ăn trên menu với camera của bạn. Mỗi lần bạn đi nước ngoài ăn nhà hàng, việc tìm hình ảnh minh họa cho từng món ăn quả thật mệt mỏi và chán phải không? Cibo sẽ cực kì có ích cho mục đích này. Chỉ việc hướng camera về phía menu và chạm vào bất kì tên món nào bạn muốn. Ứng dụng sẽ hiển thị một danh sách hình ảnh minh họa cho món ăn của bạn.";
+"keywords" = "dịch,bữa tối,nhà hàng,ảnh, hình ảnh,tìm kiếm,shibo,ciboo,chibo";
+
+"screenshot1" = "Tìm ảnh món trên menu";
+"screenshot2" = "Hướng camera về phía menu";
+"screenshot3" = "Chọn món ăn bạn cần tìm";
+"screenshot4" = "Xem ảnh của món";
+"screenshot5" = "Xem tất cả từ đã tìm";
+"screenshot6" = "Lướt từng từ";
+"screenshot7" = "Đẹp tuyệt ở giao diện tối";
