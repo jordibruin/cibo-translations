@@ -18,8 +18,8 @@ Localization by https://twitter.com/iamchataa
 
 // Settings
 "Settings" = "Postavke";
-"Highlight Color" = "Boja isticanja";
-"Accurate Scan" = "Precizno prepoznavanje teksta";
+"Highlight Color" = "Boja Isticanja";
+"Accurate Scan" = "Precizno Prepoznavanje Teksta";
 "Search Engine" = "Tražilica";
 "Slower but much more accurate text recognition results" = "Sporiji ali mnogo precizniji rezultati prepoznavanja teksta";
 "Choose which search engine to use for the image search" = "Odaberite koju tražilicu koristiti za pretraživanje slika";
@@ -38,11 +38,11 @@ Localization by https://twitter.com/iamchataa
 
 
 // IAP
-"Unlock Unlimited Scans" = "Otključaj neograničeno skeniranje";
+"Unlock Unlimited Scans" = "Otključaj Neograničeno Skeniranje";
 "Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo je napravio Jordi 🙋🏻‍♂️ iz Good Snooze-a 👍😴 Otključajte neograničeno skeniranje i podržite daljnji razvoj aplikacije kupovinom jednokratne uplate! Ako imate prijedloge kako mogu poboljšati aplikaciju, molim vas da mi javite na jordi@goodsnooze.com.";
 
-"🔎 Unlimited Scanning" = "🔎 Neograničeno skeniranje";
-"👨🏻‍💻 Support Development" = "👨🏻‍💻 Podržite razvoj";
+"🔎 Unlimited Scanning" = "🔎 Neograničeno Skeniranje";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Podržite Razvoj";
 
 "Restore Purchases" = "Vrati prethodne kupnje";
 "No purchases could be found for your Apple ID." = "Nisu pronađene kupnje za vaš Apple ID.";
