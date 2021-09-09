@@ -1,0 +1,69 @@
+/*
+  Localizable.strings
+  Cibo
+
+  Created by Jordi Bruin on 03/09/2021.
+
+Croatian/Bosnian/Serbian - covers all three languages 
+Localization by https://twitter.com/iamchataa 
+
+*/
+
+// Camera
+"Searching" = "Traženje";
+"Show found words" = "Prikaži pronađene riječi";
+"%lld words found" = "%lld riječi pronađeno";
+"Point at a menu and select a dish" = "Pokažite na jelovnik i odaberite jelo";
+"Free Scans remaining:" = "Preostala besplatna skeniranja:";
+
+// Settings
+"Settings" = "Postavke";
+"Highlight Color" = "Boja isticanja";
+"Accurate Scan" = "Precizno prepoznavanje teksta";
+"Search Engine" = "Tražilica";
+"Slower but much more accurate text recognition results" = "Sporiji ali mnogo precizniji rezultati prepoznavanja teksta";
+"Choose which search engine to use for the image search" = "Odaberite koju tražilicu koristiti za pretraživanje slika";
+
+"Translators" = "Prevoditelji";
+"Developer" = "Developer";
+"Help Translate" = "Pomozite prevesti";
+
+"⭐️ Review on the App Store" = "⭐️ Osvrni se na App Store-u";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "Pređite prstom ulijevo i udesno za brzo prebacivanje između riječi";
+
+"Found Words" = "Pronađene Riječi";
+"Search term" = "Pojam za pretraživanje";
+
+
+// IAP
+"Unlock Unlimited Scans" = "Otključaj neograničeno skeniranje";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo je napravio Jordi 🙋🏻‍♂️ iz Good Snooze-a 👍😴 Otključajte neograničeno skeniranje i podržite daljnji razvoj aplikacije kupovinom jednokratne uplate! Ako imate prijedloge kako mogu poboljšati aplikaciju, molim vas da mi javite na jordi@goodsnooze.com.";
+
+"🔎 Unlimited Scanning" = "🔎 Neograničeno skeniranje";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Podržite razvoj";
+
+"Restore Purchases" = "Vrati prethodne kupnje";
+"No purchases could be found for your Apple ID." = "Nisu pronađene kupnje za vaš Apple ID.";
+"😍 Thanks for supporting Cibo" = "😍 Hvala sto podržavate Cibo";
+
+// Errors
+"Text Recognition Failed" = "Prepoznavanje teksta nije uspjelo";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Ovo se ne bi trebalo dogoditi, molim vas da me obavijestite ukoliko se ovo desi tako što ćete mi poslati e-mail na jordi@goodsnooze.com";
+"Ok" = "Uredu";
+
+// App Store
+
+"title" = "Cibo - Vizuelni Prevoditelj Jelovnika";
+"subtitle" = "Prikaži fotografije jela";
+"description" = "Brzo pretražujte fotografije jelovnika odabirući ih vašom kamerom. Kada jedete u restoranu u inozemstvu može dosadno stalno tražiti stavke jelovnika kako biste pronašli slike kako izgledaju. Cibo vam to olakšava. Usmjerite kameru na jelovnik i odaberite bilo koje jelo. Prikazat će vam se popis fotografija kako biste bolje razumjeli što očekivati.";
+"keywords" = "prevesti, prijevod, večera, restoran, slika, pretraga, shibo, ciboo, chibo, slike";
+
+"screenshot1" = "Pronađi fotografije jela s jelovnika";
+"screenshot2" = "Usmjerite kameru prema jelovniku";
+"screenshot3" = "Odaberite jelo koje želite vidjeti";
+"screenshot4" = "Pogledajte fotografije jela";
+"screenshot5" = "Prikaži sve pronađene riječi";
+"screenshot6" = "Prijeđite prstom između riječi";
+"screenshot7" = "Izgleda sjajno u mraku"; 
