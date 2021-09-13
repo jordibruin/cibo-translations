@@ -11,7 +11,9 @@
 "Show found words" = "Show found words";
 "%lld words found" = "%lld words found";
 "Point at a menu and select a dish" = "Point at a menu and tap on a dish";
+"Found dishes will be shown here in alphabetic order" = "Found dishes will be shown here in alphabetic order";a
 "Free Scans remaining:" = "Free Scans remaining:";
+"Take a photo of a menu" = "Take a photo of a menu";
 
 // Settings
 "Settings" = "Settings";
