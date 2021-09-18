@@ -1,0 +1,66 @@
+/*
+  Localizable.strings
+  Cibo
+
+  Translated by Songkyung Min on 08/09/2021.
+
+*/
+
+// Camera
+"Searching" = "검색";
+"Show found words" = "찾은 단어 표시";
+"%lld words found" = "%lld개의 단어를 찾았습니다";
+"Point at a menu and select a dish" = "메뉴를 가리켜 요리를 고르세요";
+"Free Scans remaining:" = "남은 무료 스캔 수:";
+
+// Settings
+"Settings" = "설정";
+"Highlight Color" = "하이라이트 색상";
+"Accurate Scan" = "정확한 스캔";
+"Search Engine" = "검색 엔진";
+"Slower but much more accurate text recognition results" = "느리지만 훨씬 정확한 텍스트 인식 결과";
+"Choose which search engine to use for the image search" = "이미지 검색에 사용할 검색 엔진을 선택해주세요";
+
+"Translators" = "번역자";
+"Developer" = "개발자";
+"Help Translate" = "번역 돕기";
+
+"⭐️ Review on the App Store" = "⭐️ 앱스토어 리뷰하러 가기";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "단어 사이를 빠르게 전환하려면 왼쪽과 오른쪽으로 스와이프하세요.";
+
+"Found Words" = "찾은 단어";
+"Search term" = "검색어";
+
+
+// IAP
+"Unlock Unlimited Scans" = "무제한 스캔 해제";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo는 Good Snooze 👍😴의 Jordi에 의해 만들어졌습니다 🙋🏻‍♂️ 일회성 결제를 통해 무제한 스캔을 해제하고 앱이 추가 개발될 수 있도록 지원해주세요! 앱을 향상시킬 수 있는 제안이 있다면, jordi@goodsnooze.com으로 알려주세요.";
+
+"🔎 Unlimited Scanning" = "🔎 무제한 스캔";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 개발 지원";
+
+"Restore Purchases" = "구매 복원";
+"No purchases could be found for your Apple ID." = "해당 Apple ID의 구입 내역을 찾을 수 없습니다.";
+"😍 Thanks for supporting Cibo" = "😍 Cibo를 응원해주셔서 감사합니다.";
+
+// Errors
+"Text Recognition Failed" = "텍스트 인식 실패";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "이런 일이 일어나면 안되는데, 이러한 경우가 있다면 jordi@goodsnooze.com으로 메일을 통해 알려주세요";
+"Ok" = "확인";
+
+// App Store
+
+"title" = "Cibo - 메뉴 번역기";
+"subtitle" = "음식 사진 보기";
+"description" = "카메라로 음식 메뉴의 사진을 선택하여 빠르게 검색해보세요. 해외의 식당에서 식사를 할 때, 음식이 어떻게 생겼는지 사진을 찾으려고 끊임없이 검색해야하는 것은 지루할 수 있습니다. Cibo가 쉽게 검색할 수 있도록 도와드립니다. 메뉴를 카메라로 가리켜 음식을 고르세요. 무엇을 기대할지에 대한 더 나은 아이디어를 제공하기 위해 사진 목록을 보여줄 것 입니다.";
+"keywords" = "번역,번역,저녁,식당,사진,검색,shibo,ciboo,chibo,사진";
+
+"screenshot1" = "음식 메뉴 사진 찾기";
+"screenshot2" = "메뉴를 카메라로 가리켜보세요";
+"screenshot3" = "보려는 요리를 선택하세요";
+"screenshot4" = "음식 사진을 보세요";
+"screenshot5" = "찾은 단어 모두 보기";
+"screenshot6" = "단어 사이 스와이프";
+"screenshot7" = "다크 모드에서 더 멋져보입니다";
