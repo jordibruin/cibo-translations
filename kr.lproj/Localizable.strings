@@ -11,7 +11,9 @@
 "Show found words" = "찾은 단어 표시";
 "%lld words found" = "%lld개의 단어를 찾았습니다";
 "Point at a menu and select a dish" = "메뉴를 가리켜 요리를 고르세요";
+"Found dishes will be shown here in alphabetic order" = "찾은 요리는 알파벳 순서로 표시됩니다.";
 "Free Scans remaining:" = "남은 무료 스캔 수:";
+"Take a photo of a menu" = "메뉴 사진 찍기";
 
 // Settings
 "Settings" = "설정";
