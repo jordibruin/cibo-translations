@@ -1,0 +1,68 @@
+/*
+  Localizable.strings
+  Cibo
+
+  Created by Jordi Bruin on 03/09/2021.
+
+*/
+
+// Camera
+"Searching" = "Aranıyor";
+"Show found words" = "Bulunan kelimeleri göster";
+"%lld words found" = "%lld kelime bulundu";
+"Point at a menu and select a dish" = "Bir menünün üzerine gelin ve yemeğe dokunun";
+"Found dishes will be shown here in alphabetic order" = "Bulunan yemekler, alfabetik olarak burada listelenecek";
+"Free Scans remaining:" = "Kalan ücretsiz tarama sayısı:";
+"Take a photo of a menu" = "Menünün fotoğrafını çekin";
+
+// Settings
+"Settings" = "Ayarlar";
+"Highlight Color" = "Vurgulanan Renk";
+"Accurate Scan" = "Doğru Metin Tarama";
+"Search Engine" = "Arama Motoru";
+"Slower but much more accurate text recognition results" = "Daha yavaş ancak daha yüksek oranda doğrulanmış metin arama sonuçları";
+"Choose which search engine to use for the image search" = "Görsel arama için bir arama motoru seçin";
+
+"Translators" = "Çevirmenler";
+"Developer" = "Geliştirici";
+"Help Translate" = "Çeviriye Yardımcı Ol";
+
+"⭐️ Review on the App Store" = "⭐️ App Store'da Değerlendir";
+
+// Image Search
+"Swipe left and right to quickly switch between words" = "Kelimeler arasında hızlıca geçiş yapmak için, sola ve sağa kaydırın";
+
+"Found Words" = "Bulunan Kelimeler";
+"Search term" = "Arama Terimi";
+
+
+// IAP
+"Unlock Unlimited Scans" = "Sınırsız Taramayı Aç";
+"Cibo is made by Jordi 🙋🏻‍♂️ at Good Snooze 👍😴 Unlock unlimited scans and support the further development of the app by purchasing a one time payment! If you have any suggestions on how I can improve the app, please let me know at jordi@goodsnooze.com." = "Cibo, Good Snoze 👍😴 kurucusu Jordi 🙋🏻‍♂️ tarafından geliştirildi. Tek seferlik satın alma ile, sınırsız tarama özelliğini açabilir ve uygulamanın gelişmesine yardımcı olabilirsiniz. Öneri, istek ve şikayet için jordi@goodsnooze.com adresinden bana ulaşabilirsiniz.";
+
+"🔎 Unlimited Scanning" = "🔎 Sınırsız Tarama";
+"👨🏻‍💻 Support Development" = "👨🏻‍💻 Geliştirmeye Destek Ol";
+
+"Restore Purchases" = "Satın Alımları Geri Yükle";
+"No purchases could be found for your Apple ID." = "Apple ID'niz ile ilgili bir satın alma bulunamadı.";
+"😍 Thanks for supporting Cibo" = "😍 Cibo'yu desteklediğin için teşekkürler.";
+
+// Errors
+"Text Recognition Failed" = "Metin tarama başarısız oldu";
+"This shouldn't happen, please let me know if this happens to you by sending me an email at jordi@goodsnooze.com" = "Beklenmedik bir hata oluştu, tekrarı halinde lütfen bana bu adresden ulaşın jordi@goodsnooze.com";
+"Ok" = "Tamam";
+
+// App Store
+
+"title" = "Cibo - Görsel Menü Çevirici";
+"subtitle" = "Yemek görsellerini görüntüle";
+"description" = "Menüdeki yemeklerin görsellerini, kameranız ile hızlıca arayabilirsiniz. Yurtdışındaki bir restoranda yemek yerken, neye benzediklerinin resimlerini bulmak için menü öğelerini sürekli aramak zorunda kalmak sıkıcı olabilir. Cibo, bunu sizin için kolay bir hale getiriyor. Kameranızı menüye doğru tutun ve istediğiniz yemeği seçin. Yemek ile ilgili, size daha iyi bir fikir vermek adına görselleri gösterecektir.";
+"keywords" = "çeviri,çevirici,akşam yemeği,lokanta,görsel,arama,shibo,ciboo,chibo,resimler";
+
+"screenshot1" = "Menüdeki yemeklerin görsellerini bul";
+"screenshot2" = "Kamerayı menüye doğru tut";
+"screenshot3" = "Görmek istediğin yemeği seç";
+"screenshot4" = "Yemeğin görsellerine bak";
+"screenshot5" = "Bulunan tüm kelimeleri gör";
+"screenshot6" = "Bulunan kelimeler arasında geçiş yap";
+"screenshot7" = "Karanlıkta bile harika görünüyor";
